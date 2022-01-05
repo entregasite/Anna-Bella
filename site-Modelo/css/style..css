@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.em;
+}
+
+/******Layaut***/
+
+.area-cabecalho{
+    background-color: orange;
+    padding: 15px;
+    text-align: center;
+}
+
+.saibamais{
+    color: tomato;
+       
+}
+
+
+.logo{
+
+    padding: 10px;
+    margin: 10px;
+}
+
+h1{
+
+    font-size: 30px;
+}
+
+h3{
+    padding: 10px;
+
+    margin-bottom: 2px;
+}
+
+.logo-cor{
+    color: rgb(255, 255, 255);
+}
+
+
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(119, 119, 119);
+    font-size: 19px;
+}
+a:hover{
+
+    background-color: rgb(185, 185, 185);
+}
+
+.area-principal{
+
+    
+    width: 920px;
+
+    margin: auto auto;
+}
+
+/******area de postagems *********/
+
+.conteudo-lateral{
+
+    padding: 20px;
+    margin: 10px;
+}
+
+.postagems-lateral{
+
+    padding: 15px;
+}
+
+.postagems-lateral{
+
+    padding: 5px;
+    font-size: 0.8em;
+}
+
+
+
+.area-postagem{
+
+    width: 660px;
+    float: left;
+    
+}
+
+.area-lateral{
+    width: 240px;
+    float: right;
+
+}
+
+#rodape{
+
+    background-color: rgb(163, 163, 163);
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+}
+
+.postagems{
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+ .data-postagem-1{
+
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    display: block;
+ }
+ 
+
